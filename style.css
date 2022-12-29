@@ -1,0 +1,44 @@
+  h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    margin-top: 0px;
+    
+  }
+  h5{
+    margin-bottom: 17px;
+  }
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background-color: #e6e6e6; 
+    font-family: 'Gill Sans',sans-serif; 
+  }
+  
+  .container{
+    height: 100%;
+    width: 100%;
+    align-items: center;
+  }
+  
+  .outer {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 32px;
+  }
+  select{
+    width: 275px;
+    height: 34px;
+    text-align: center;
+    font-size: 17px;
+    margin-bottom: 7px;
+    text-transform: capitalize;
+  }
+  #breed{
+    margin: 10px;
+  } 
+
+  #img{
+    display: inline-block;  
+    height: 450px;
+    aspect-ratio: 1/1; 
+    position: relative;
+  }
